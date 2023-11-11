@@ -3,3 +3,4 @@ dist
 coverage
 build
 vitest.config.ts
+commitlint.config.js
