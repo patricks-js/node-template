@@ -1,5 +1,6 @@
 {
   "*.ts": [
-    "npx eslint --fix"
+    "npx eslint --fix",
+    "pnpm test:staged"
   ]
 }
